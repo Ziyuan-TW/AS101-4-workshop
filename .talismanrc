@@ -1,0 +1,6 @@
+fileignoreconfig:
+  - filename: env_secrets
+    checksum: dc53779305f4e5bfb7d1e01157806fbc522216f706f205cb126ecfad6cce0322
+  - filename: docker-compose.yml
+    checksum: 683c4b16e9def119a5b1dec07e822210907fe42f5a7910edee8998257c8fdd53
+version: ""
